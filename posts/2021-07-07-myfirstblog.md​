@@ -1,3 +1,10 @@
-# Welcome to my first blog!
+---
+layout: post
+title:  "Welcome to my first blog!"
+---
 
-## Looking forward to creating more content on github
+# I'm Sofi
+
+**Glad you are here**, this is my first Jekyll blog post.
+
+I hope you like it!
