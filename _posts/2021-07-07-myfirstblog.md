@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to my first blog!"
+title: "My first blog on github"
+date: 2021-07-07
 ---
 
 # I'm Sofi
