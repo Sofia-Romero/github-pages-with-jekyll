@@ -1,8 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my first blog!"
 ---
 
 I'm Sofía,
 
-This is my first github Page.
-It will get better :eyes:
+**This is my first Jekyll blog.**
+
+
